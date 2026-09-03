@@ -1,14 +1,14 @@
 {
   "channels": {
     "stable": {
-      "version": "0.7.0",
+      "version": "0.8.0",
       "image": "ghcr.io/strivetechnical/strive-swms:stable",
-      "notes": "v0.7.0 tenant-aware release with branding, terminology and controlled update improvements."
+      "notes": "v0.8: validated version display, Q135 closure, export continuity, audit spelling, safer packaging and mandatory regression testing before image publication."
     },
     "beta": {
-      "version": "0.6.0",
+      "version": "0.8.0",
       "image": "ghcr.io/strivetechnical/strive-swms:stable",
-      "notes": "Beta channel not yet in use."
+      "notes": "Beta channel is not separately published yet."
     }
   }
 }
