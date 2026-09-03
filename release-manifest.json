@@ -1,12 +1,12 @@
 {
   "channels": {
     "stable": {
-      "version": "0.9.0",
+      "version": "0.9.1",
       "image": "ghcr.io/strivetechnical/strive-swms:stable",
-      "notes": "Job-centred safety operations and subscription feature release."
+      "notes": "v0.9.1: job-centred safety operations plus a safe upgrade migration for the older jobs table retained by v0.8."
     },
     "beta": {
-      "version": "0.9.0",
+      "version": "0.9.1",
       "image": "ghcr.io/strivetechnical/strive-swms:stable",
       "notes": "Beta channel is not separately published yet."
     }
