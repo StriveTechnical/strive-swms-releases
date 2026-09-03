@@ -1,9 +1,9 @@
 {
   "channels": {
     "stable": {
-      "version": "0.6.0",
+      "version": "0.7.0",
       "image": "ghcr.io/strivetechnical/strive-swms:stable",
-      "notes": "Current stable release. v0.7 will be the first automated update trial."
+      "notes": "notes": "v0.7.0 tenant-aware release with branding, terminology and controlled update improvements."
     },
     "beta": {
       "version": "0.6.0",
