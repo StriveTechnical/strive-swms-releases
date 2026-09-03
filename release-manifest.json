@@ -1,0 +1,14 @@
+{
+  "channels": {
+    "stable": {
+      "version": "0.6.0",
+      "image": "ghcr.io/strivetechnical/strive-swms:stable",
+      "notes": "Current stable release. v0.7 will be the first automated update trial."
+    },
+    "beta": {
+      "version": "0.6.0",
+      "image": "ghcr.io/strivetechnical/strive-swms:stable",
+      "notes": "Beta channel not yet in use."
+    }
+  }
+}
